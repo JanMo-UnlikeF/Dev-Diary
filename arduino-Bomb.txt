@@ -1,1 +1,1 @@
-ช่วงวันหยุดลองรื้อบอร์ด Arduino มาต่อวงจรเซ็นเซอร์เล่นๆ ว่าจะทำระบบรดน้ำต้นไม้อัตโนมัติ ปรากฏว่าลืมวิธีเขียน C++ ไปเกือบหมด นั่งไล่แก้ Error จนตาแฉะ ทิ้งไว้นานความรู้คืนครูหมดเลย
+During the holidays, I tried digging out an Arduino board and connecting some sensors to create an automatic plant watering system. Turns out, I've almost completely forgotten how to write C++ code. I spent so much time fixing errors my eyes were blurry. It's been so long, I've forgotten everything I learned!
