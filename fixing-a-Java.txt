@@ -1,0 +1,1 @@
+My head hurts today. I spent half a day fixing a Java Environment conflict on the test server, making everything run impossible. The logs were full of red (indicating a complete error). It turned out to be a version mismatch. I wasted half a day for nothing.
