@@ -1,0 +1,1 @@
+I'm currently studying the basics of Machine Learning, planning to use it to create models for analyzing customer behavior. However, I've come to realize that analyzing the weaknesses of competitors' websites would be much more fun.
